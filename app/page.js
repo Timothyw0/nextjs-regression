@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Get STARTED by editing&nbsp;
-          <code className={styles.code}>app/page.js Here is a change for centraluseuap 102.1.30.0!</code>
+          <code className={styles.code}>app/page.js Here is a change for centraluseuap 102.1.30.46!</code>
         </p>
         <div>
           <a
